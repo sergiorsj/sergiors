@@ -1,2 +1,0 @@
-# sergiors
-bootcamp 
